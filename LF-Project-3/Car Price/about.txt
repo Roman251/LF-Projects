@@ -1,0 +1,21 @@
+drive wheel : A drive wheel is a wheel of a motor vehicle that transmits force, transforming torque into tractive force from the tires to the road, causing the vehicle to move. 
+
+aspiration : A naturally aspirated engine, also known as a normally aspirated engine or NA, is an internal combustion engine in which air intake depends solely on atmospheric pressure and does not have forced induction through a turbocharger or a supercharger.
+
+wheelbase : A car's wheelbase is the distance between the centre of the front and rear wheels. 
+
+curb weight : Curb weight is the weight of the vehicle including a full tank of fuel and all standard equipment
+
+bore ratio : Bore-Stroke Ratio is the ratio between the dimensions of the engine cylinder bore diameter to its piston stroke-length.
+
+stroke : A phase of the engine's cycle (e.g. compression stroke, exhaust stroke), during which the piston travels from top to bottom or vice versa. A “2-stroke” engine is called so because just one up and down movement of the piston—the 2 strokes—performs the full cycle of intake, compression, combustion and exhaust.
+
+compression ratio : The compression ratio (CR) is defined as the ratio of the volume of the cylinder and its head space (including the pre-combustion chamber, if present) when the piston is at the bottom of its stroke to the volume of the head space when the piston is at the top of its travel ('top dead centre', tdc). A high compression ratio is desirable because it allows an engine to extract more mechanical energy from a given mass of air–fuel mixture due to its higher thermal efficiency.
+
+city mpg : MPG, or miles per gallon, is the distance, measured in miles, that a car can travel per gallon of fuel.
+
+cylinder number : The cylinder is the power unit of the engine. This is where fuel is burned and converted into mechanical energy that powers the vehicle. The number of cylinders in a typical car could be four, six or eight. The cylinder is made of metal and is sealed shut.
+
+highway MPG: the average a car will get while driving on an open stretch of road without stopping or starting, typically at a higher speed.
+
+fuel system : The fuel system is made up of the fuel tank, pump, filter, and injectors or carburetor, and is responsible for delivering fuel to the engine as needed.
